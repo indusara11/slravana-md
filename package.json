@@ -2,7 +2,7 @@
   "name": "slravana",
   "version": "2.0.1",
   "description": "Slravana whatsapp bot- Multi device version.",
-  "main": "./slravana-md/index.js",
+  "main": "./Slravana/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
