@@ -2,7 +2,7 @@
   "name": "slravana",
   "version": "2.0.1",
   "description": "Slravana whatsapp bot- Multi device version.",
-  "main": "./Slravana/index.js",
+  "main": "./slravana-md/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
@@ -32,7 +32,7 @@
     "node-webpmux": "^3.1.0",
     "node-cron": "3.0.1",
     "async-g-i-s": "1.0.0",
-    "raganork-bot": "2.0.7",
+    "slravana-bot": "2.0.7",
     "sequelize": "^6.13.0",
     "sqlite3": "^5.0.0",
     "supervisor": "^0.12.0"
